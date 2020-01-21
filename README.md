@@ -36,3 +36,23 @@ Since we imported random at the top of our file, we can use the following code t
 ```
 response = random.choice(answers)
 ```
+---
+## FutureTime.py
+Create a program that asks the user for a number of hours and minutes, then computes the time it will be when those hours/minutes have passed based on the current time obtained from the system.
+
+We have not yet talked about if statements or other control structures. You should be able to accurately get the future time using only mathematical operations discussed in Lecture 2.
+
+#### Things to consider
+- How do I get input from the user?
+- Is this input in the correct data type?
+  - How do I convert data types if it is not?
+- 9 + 7 = 16... how do I convert to a 1-12 hour range without if statements?
+- How do I use these variable so print info in the "HH:MM" format?
+
+---
+
+## Testing your code
+You may not actually know that your code works until you fully test what you have written. It is often a good idea to get someone else to run your program, they may do something you had not anticipated which could show you a possible flaw or at least a design issue.
+
+## End of class
+Use Atom Git window to stage changes and push. If you are not done, you will still want to push changes so you can continue to work on this later.
