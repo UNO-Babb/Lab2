@@ -55,4 +55,4 @@ We have not yet talked about if statements or other control structures. You shou
 You may not actually know that your code works until you fully test what you have written. It is often a good idea to get someone else to run your program, they may do something you had not anticipated which could show you a possible flaw or at least a design issue.
 
 ## End of class
-Use Atom Git window to stage changes and push. If you are not done, you will still want to push changes so you can continue to work on this later.
+In Repl.it, you will find the share link to your code. That is what gets submitted to Canvas.
