@@ -1,4 +1,4 @@
-# Lab2 - CYBR 2980
+# Lab2 - CIST 1600
 Variables, assignment, numerical types, arithmetic operators
 
 ## Magic8Ball.py
