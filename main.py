@@ -1,5 +1,5 @@
 import FutureTime
-import Macic8Ball
+import Magic8Ball
 
 FutureTime.main()
 Magic8Ball.main()
