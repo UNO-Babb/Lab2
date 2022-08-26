@@ -11,8 +11,8 @@ def main():
   print("Magic 8 Ball")
   #Prompt the user for their question.
 
-  # Answer question randomly with one of the options from your earlier list.
+  #Answer question randomly with one of the options from your earlier list.
 
 
 if __name__ == '__main__':
-    main()
+  main()
