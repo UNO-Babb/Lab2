@@ -25,4 +25,5 @@ def main():
     #Output the future time in standard format "HH:MM"
 
 
-main()
+if __name__ == '__main__':
+    main()
